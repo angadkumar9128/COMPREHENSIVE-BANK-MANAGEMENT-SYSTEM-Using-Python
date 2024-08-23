@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2024-08-22] [03:41:04]       1231              1231
